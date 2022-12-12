@@ -1,5 +1,6 @@
 import "./App.css";
 import Footer from "./components/Footer/Footer";
+import Header from "./components/Header/Header.jsx";
 import Navbar from "./components/Navbar/Navbar";
 import Socials from "./components/Socials/Socials";
 import Sub from "./components/Sub/Sub";
